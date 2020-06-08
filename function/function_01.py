@@ -72,3 +72,4 @@ def get_items(heading, list_1):
 shopping = []
 get_items("*** Variables to sell ***", shopping)
 print(shopping)
+# Nothing to see here..
